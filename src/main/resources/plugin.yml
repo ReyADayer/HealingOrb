@@ -1,0 +1,4 @@
+name: Healing Orb
+version: @version@
+main: net.atlantis.healingorb.HealingOrb
+api-version: 1.13
